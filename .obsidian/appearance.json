@@ -1,0 +1,7 @@
+{
+  "cssTheme": "OLED.Black",
+  "accentColor": "#7400b3",
+  "enabledCssSnippets": [
+    "force_purple"
+  ]
+}

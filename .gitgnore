@@ -1,0 +1,16 @@
+# --- Obsidian Internals ---
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/last-state.json
+
+# --- Sync & Cache ---
+.obsidian/cache/
+.obsidian/plugins/obsidian-git/
+
+# --- System & OS Junk ---
+.DS_Store
+Thumbs.db
+*.tmp
+
+# --- Desktop Services ---
+.trash/
