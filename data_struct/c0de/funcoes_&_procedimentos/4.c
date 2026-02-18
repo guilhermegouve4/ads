@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 double square_root(double n){
     if(n < 0){
         return -1;
